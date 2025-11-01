@@ -1,0 +1,25 @@
+{
+    "user": "user-test-1760096534311@test.com",
+    "pass": "12345",
+    "name": "User Teste",
+    "email": "van@test.com.br",
+    "address": "4199 Canal street test",
+    "complementoEmail": "qa-teste",
+    "emailExistente": "user-test-1760096534311@test.com", 
+
+    "subject": "Escrevendo testes automatizados cypress",
+    "message": "Aprendendo automação em testes cypress na pós graduação em automação de testes. Professor Samuel",
+
+    "nameProduct": "Men Tshirt",
+
+    "_DADOS PARA PAGAMENTO": "Os dados baixo são para preencher os dados de pagamento",
+
+    "nomeCartao": "Fulano de Tal",
+    "numeroCartao": "1234567890-10",
+    "cvv": "311",
+    "mesExpiracao": "12",
+    "anoExpiracao": "2027"
+
+
+
+}
